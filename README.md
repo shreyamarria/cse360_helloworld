@@ -1,5 +1,4 @@
 # cse360_helloworld
-Shreya Marria 
 
 This repository is to serve as CSE360 GitHub tutorial.
 
